@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/Achievements/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Experience/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Organisations/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Resume.pdf</loc>
+<lastmod>2017-06-30T05:27:01+05:30</lastmod>
+</url>
+</urlset>
