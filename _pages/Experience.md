@@ -9,7 +9,7 @@ author_profile: true
 # Education
 
 ## Under-Graduate Degree             
-<img src = "https://drive.google.com/drive/folders/0B1f11NxDo-iwN3R5bUhZT2VHSXc"/><br>
+<img src = "{{ site.baseurl }}/images/BITSPilani_logo.png"/><br>
 <small>2015-2017</small>
 <p><big>Junior</big><br>
    BITS Pilani, Rajasthan<br>
@@ -17,9 +17,8 @@ author_profile: true
    CGPA = 8.99<br>
 </p>
 
-## Junior College 
-<img src="{{ site.baseurl }}/images/Pace_logo.jpg/"/><br>
-<small>      2013-2015</small>
+## Junior College
+<small>2013-2015</small>
 <p>PACE Junior Science College, Nerul<br>
    HSC Board<br>
    Percentage = 92.13%<br>
