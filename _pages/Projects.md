@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /Projects/
+author_profile: true
 ---
 
 {{ page.excerpt | markdownify }}
