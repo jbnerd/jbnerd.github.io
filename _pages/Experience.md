@@ -18,6 +18,7 @@ author_profile: true
 </p>
 
 ## Junior College
+<img src="{{ site.baseurl }}/images/Pace_logo.jpg">
 <small>2013-2015</small>
 <p>PACE Junior Science College, Nerul<br>
    HSC Board<br>
