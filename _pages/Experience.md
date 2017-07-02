@@ -25,7 +25,7 @@ author_profile: true
 </p>
 
 ## Secondary Education
-<img src="{{ site.baseurl }}/images/Ryan_logo.jpg/"><br>
+<img src = "{{ site.baseurl }}/images/Ryan_logo.jpg"/><br>
 <small>      2006-2013</small>
 <p>Ryan International School, Sanpada<br>
    CBSE Board<br>
@@ -47,6 +47,6 @@ author_profile: true
 <p>Worked as a back-end web development intern for the official website of the startup. Made a login/registration tool using the LinkedIn and Google API.</p>
 
 ## Campus Ambassador for BITS Pilani at SophomoreS.in
-<img src = "{{ site.baseurl }}/images/sophomores.in_logo.png/"/><br>
+<img src = "{{ site.baseurl }}/images/sophomores.in_logo.png"/><br>
 <small>      Aug 2016 - Oct 2016</small>
 <p>Worked as the Campus Ambassador and the mediator between the authorities and the students enrolled for the <a href = "sophomores.in">Sophomores.in</a> program.</p>
