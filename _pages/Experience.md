@@ -9,7 +9,7 @@ author_profile: true
 # Education
 
 ## Under-Graduate Degree             
-<img src = "https://github.com/jbnerd/jbnerd.github.io/blob/master/images/BITSPilani_logo.png"/><br>
+<img src = "https://drive.google.com/drive/folders/0B1f11NxDo-iwN3R5bUhZT2VHSXc"/><br>
 <small>2015-2017</small>
 <p><big>Junior</big><br>
    BITS Pilani, Rajasthan<br>
