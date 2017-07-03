@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/Achievements/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/organisations/BITSACM/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/projects/BITS_LifeGuard/</loc>
 </url>
 <url>
@@ -14,6 +17,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/Projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/Checkmate_2016_pokemon_go/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
