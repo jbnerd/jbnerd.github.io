@@ -6,7 +6,9 @@ author_profile: true
 
 {{ page.excerpt | markdownify }}
 
-# The Machine Learning Experience - A Hands-on Lecture series.
+# BITSACM
+
+## The Machine Learning Experience - A Hands-on Lecture series.
 <small>Mar 2017</small>
 
 <p>Delivered a lecture and conducted a Hands on coding sessions for enthusiasts new to Machine Learning. Find the code used in the session <a href="https://github.com/jbnerd/The_Machine_Learning_Experience">here</a>.</p>
@@ -24,12 +26,12 @@ author_profile: true
 </p>
 
 
-# Winter Study Program
+## Winter Study Program
 <small>Dec 2016</small>
 
 <p>Took upon the initiative to educate the freshers of the student chapter in version control using github. I along with another teammate forked some famous repos to see the working of their respective organisations, and some more to make contributions and hacks of their own.</p>
 
-# SIG Introductory Lectures
+## SIG Introductory Lectures
 <small>Sept 2016</small>
 
 <p>Delivered Special Introductory level lectures to the freshers of BITSACM over topics from Back-end Web Development, Computer Networks and Linux OS.</p>
@@ -37,7 +39,7 @@ author_profile: true
 <p>It is one thing to understand a concept oneself, it is another and much more a difficult one to explain/convey them to others for their understanding. These were my first lectures in front of a big audience.</p>
 
 
-# Checkmate 2016 Pokemon-Go!
+## Checkmate 2016 Pokemon-Go!
 <small>Development Period: July 2016 - Aug 2016 </small>
 <small>Event Hosted in the First week of September.</small>
 
