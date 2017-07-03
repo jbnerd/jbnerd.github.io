@@ -19,6 +19,9 @@
 <loc>http://localhost:4000/Experience/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Miscellaneous/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/projects/Myriad</loc>
 </url>
 <url>
@@ -36,5 +39,9 @@
 <url>
 <loc>http://localhost:4000/Resume.pdf</loc>
 <lastmod>2017-06-30T05:27:01+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sarcasm_detection_report.pdf</loc>
+<lastmod>2017-07-03T20:25:11+05:30</lastmod>
 </url>
 </urlset>

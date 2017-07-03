@@ -34,6 +34,18 @@ author_profile: true
 </p>
 <br><br>
 
+# Lab Experience
+
+## Informal Research Student at Network Research Lab, BITS Pilani
+<small>Aug 2016 - Present</small>
+
+<p>I have been working under <a href="http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile">Prof. Rahul Banerjee</a> in the <a href="http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory">Network Research Lab</a> of BITS Pilani for the <a href="http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home">project BITS LifeGuard</a>.</p>
+
+## Formal Research Student at ADAPT Labs, BITS Pilani
+<small>Aug 2017 - Present</small>
+
+<p>I shall be working in ADAPT Labs under the guidance of <a href="http://universe.bits-pilani.ac.in/pilani/goel/profile">Prof. Navneet Goyal</a> at <a href="http://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory">ADAPT Labs</a> for the purpose of Designing an efficient Algorithm for Event Detection and Tracking on Twitter Stream Data.</p>
+
 # Internships
 
 ## Summer Research Intern at Bombay Stock Exchange
