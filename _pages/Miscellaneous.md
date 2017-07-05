@@ -17,6 +17,13 @@ author_profile: true
 <small>Apr 2016 - Aug 2016</small>
 
 <p><a href="https://in.linkedin.com/in/manasluthra">Manas Luthra</a> is the winning candidate for the post of General Secretary of BITS Pilani in Student Union Elections 2016-17. We reached out to more than 3000 students of BITS Pilani to introduce them to the manifesto and the candidate. This opportunity helped me improve my communications skills and teamwork. Lead by a great leader and with the support of an enthusiastic and hard-working team, we won the elections with a substantial margin.</p>
+<br><br>
+
+# Speed Typing
+
+<p>Recorded highest at 68 Words per Minute at <a href = "https://www.keyhero.com/">keyhero</a>.</p><br>
+<img src = "{{ site.baseurl }}/images/68WPM_keyhero.png"/>
+
 
 <br><br>
 # Other small code stuff!

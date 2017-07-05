@@ -6,6 +6,7 @@ author_profile: true
 
 {{ page.excerpt | markdownify }}
 
+# Achievements
 
 - Merit Scholarship, BITS Pilani
 	- Was awarded the Merit-1 type scholarship in the fall semester of the academic year 2015-2016 for excellence in academics.
@@ -17,4 +18,3 @@ author_profile: true
 	- Stood 12th in the Thane District Mayor's Cup Under-15 Chess Competition in 2012.
 - Homi Bhabha Bal Vaigyanik Yojana
 	- Was selected for the Practical round of the competition in 2012. Also received a certificate of honour for the same.
-
