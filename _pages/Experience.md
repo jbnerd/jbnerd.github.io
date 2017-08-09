@@ -6,6 +6,13 @@ author_profile: true
 
 {{ page.excerpt | markdownify }}
 
+# Professional/Teaching Assistant
+
+## CS F111 - Computer Programming, BITS Pilani
+<small>Aug 2017 - Present</small>
+
+<p>Worked as a Professional Assistant in the Computer Programming course of BITS Pilani. Assisted in conducting the lab sessions for the course which deals with Programming basics using C in UNIX Operating System.</p>
+
 # Lab Experience
 
 ## Informal Research Student at Network Research Lab, BITS Pilani
