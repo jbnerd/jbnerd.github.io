@@ -6,13 +6,6 @@ author_profile: true
 
 {{ page.excerpt | markdownify }}
 
-# Professional/Teaching Assistant
-
-## CS F111 - Computer Programming, BITS Pilani
-<small>Aug 2017 - Present</small>
-
-<p>Worked as a Professional Assistant in the Computer Programming course of BITS Pilani. Assisted in conducting the lab sessions for the course which deals with Programming basics using C in UNIX Operating System.</p>
-
 # Lab Experience
 
 ## Informal Research Student at Network Research Lab, BITS Pilani
@@ -20,11 +13,24 @@ author_profile: true
 
 <p>I have been working under <a href="http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile">Prof. Rahul Banerjee</a> in the <a href="http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory">Network Research Lab</a> of BITS Pilani for the <a href="http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home">project BITS LifeGuard</a>.</p>
 
+<p>My work majorly consisted of a literature review for techniques of real time classification of stream data. The data is cleaned by the sensor fusion team and is received by compute nodes on the jacket which have a very limited computational power and memory. Within these tight constraints the system should be able to detect whether a driver is under stress or not, and if there is a necessity of over-riding/alerting the driver of his stress levels. The true labels of the physiological data are unknown except for a few examples, which makes it even more difficult to perform the classification task.</p>
+
+<p>I have played around with the <a href="https://www.medien.ifi.lmu.de/pubdb/publications/pub/schneegass2013workload/schneegass2013workload.pdf">Stuttgart - Schneegass et al.</a> and the <a href="https://physionet.org/physiobank/database/drivedb/">MIT - Healey Picard</a> datasets to test their claims and evaluate the stress levels of real world drivers.</p>
+
+<p>Some of the interesting Research Papers read by me are <a href="http://homes.cs.washington.edu/~pedrod/papers/kdd00.pdf">Domingos-Hulten's VFDT</a> and <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.6309&rep=rep1&type=pdf"></a>Active Mining of Data Streams by Wei Fan et al.</p>
+
 ## Formal Research Student at ADAPT Labs, BITS Pilani
 <small>Aug 2017 - Present</small>
 
 <p>I shall be working in ADAPT Labs under the guidance of <a href="http://universe.bits-pilani.ac.in/pilani/goel/profile">Prof. Navneet Goyal</a> at <a href="http://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory">ADAPT Labs</a> for the purpose of Designing an efficient Algorithm for Event Detection and Tracking on Twitter Stream Data.</p>
 <br><br>
+
+# Professional/Teaching Assistant
+
+## CS F111 - Computer Programming, BITS Pilani
+<small>Aug 2017 - Present</small>
+
+<p>Worked as a Professional Assistant in the Computer Programming course of BITS Pilani. Assisted in conducting the lab sessions for the course which deals with Programming basics using C in UNIX Operating System.</p>
 
 # Internships
 
