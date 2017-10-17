@@ -37,8 +37,12 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/PS1_Compre_Report.pdf</loc>
+<lastmod>2017-07-14T13:42:01+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/Resume.pdf</loc>
-<lastmod>2017-06-30T05:27:01+05:30</lastmod>
+<lastmod>2017-08-31T14:26:32+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/sarcasm_detection_report.pdf</loc>
