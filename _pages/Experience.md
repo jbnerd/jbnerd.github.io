@@ -9,15 +9,9 @@ author_profile: true
 # Lab Experience
 
 ## Informal Research Student at Network Research Lab, BITS Pilani
-<small>Aug 2016 - Present</small>
+<small>Aug 2016 - April 2017</small>
 
-<p>I have been working under <a href="http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile" id = "link">Prof. Rahul Banerjee</a> in the <a href="http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory" id = "link">Network Research Lab</a> of BITS Pilani for the <a href="http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home" id = "link">project BITS LifeGuard</a>.</p>
-
-<p>My work majorly consisted of a literature review for techniques of real time classification of stream data. The data is cleaned by the sensor fusion team and is received by compute nodes on the jacket which have a very limited computational power and memory. Within these tight constraints the system should be able to detect whether a driver is under stress or not, and if there is a necessity of over-riding/alerting the driver of his stress levels. The true labels of the physiological data are unknown except for a few examples, which makes it even more difficult to perform the classification task.</p>
-
-<p>I have played around with the <a href="https://www.medien.ifi.lmu.de/pubdb/publications/pub/schneegass2013workload/schneegass2013workload.pdf" id = "link">Stuttgart - Schneegass et al.</a> and the <a href="https://physionet.org/physiobank/database/drivedb/" id = "link">MIT - Healey Picard</a> datasets to test their claims and evaluate the stress levels of real world drivers.</p>
-
-<p>Some of the interesting Research Papers read by me are <a href="http://homes.cs.washington.edu/~pedrod/papers/kdd00.pdf" id = "link">Domingos-Hulten's VFDT</a> and <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.6309&rep=rep1&type=pdf" id = "link"></a>Active Mining of Data Streams by Wei Fan et al.</p>
+<p>I have been working under <a href="http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile" id = "link">Prof. Rahul Banerjee</a> in the <a href="http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory" id = "link">Network Research Lab</a> of BITS Pilani for the <a href="http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home" id = "link">project BITS LifeGuard</a>. Click <a href="/Projects/BITS_LifeGuard/" id = "link">here</a>.</p>
 
 ## Formal Research Student at ADAPT Labs, BITS Pilani
 <small>Aug 2017 - Present</small>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/projects/ANCPortal/</loc>
+<loc>http://localhost:4000/Projects/ANCPortal/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Achievements/</loc>
@@ -10,7 +10,7 @@
 <loc>http://localhost:4000/organisations/BITSACM/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/BITS_LifeGuard/</loc>
+<loc>http://localhost:4000/Projects/BITS_LifeGuard/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/organisations/CodingClub/</loc>
@@ -22,7 +22,7 @@
 <loc>http://localhost:4000/Miscellaneous/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/Myriad/</loc>
+<loc>http://localhost:4000/Projects/Myriad/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Organisations/</loc>
@@ -31,10 +31,14 @@
 <loc>http://localhost:4000/Projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/Checkmate_2016_pokemon_go/</loc>
+<loc>http://localhost:4000/Projects/Checkmate_2016_pokemon_go/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/MnihEtAlHassibis15NatureControlDeepRL.pdf</loc>
+<lastmod>2017-12-24T22:46:22+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/PS1_Compre_Report.pdf</loc>
@@ -43,6 +47,10 @@
 <url>
 <loc>http://localhost:4000/Resume.pdf</loc>
 <lastmod>2017-09-21T20:57:50+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/adapt_lab_compre_report_1.pdf</loc>
+<lastmod>2017-12-09T14:23:20+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/sarcasm_detection_report.pdf</loc>

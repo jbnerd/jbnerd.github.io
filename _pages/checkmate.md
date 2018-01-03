@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/Checkmate_2016_pokemon_go/
+permalink: /Projects/Checkmate_2016_pokemon_go/
 author_profile: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/Myriad/
+permalink: /Projects/Myriad/
 author_profile: true
 ---
 

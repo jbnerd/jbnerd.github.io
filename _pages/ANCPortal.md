@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/ANCPortal/
+permalink: /Projects/ANCPortal/
 author_profile: true
 ---
 
