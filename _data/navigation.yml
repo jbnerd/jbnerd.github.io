@@ -1,19 +1,17 @@
 # main links
 main:
-  - title: "Home"
-    url: #
-  - title: "Projects"
-    url: /Projects/
+  - title: "About"
+    url: /
   - title: "Experience"
     url: /Experience/
-  - title: "Organisations"
-    url: /Organisations/
+  - title: "Projects/Publications"
+    url: /PandP/
   - title: "Achievements"
     url: /Achievements
   - title: "Resume"
     url: /Resume.pdf
-  - title: "Miscellaneous"
-    url: /Miscellaneous
+  - title: "Blog"
+    url: /Blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Projects/
+permalink: /PandP/
 author_profile: true
 ---
 

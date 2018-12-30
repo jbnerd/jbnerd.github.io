@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Miscellaneous/
+permalink: /Blog/
 author_profile: true
 ---
 
@@ -16,7 +16,7 @@ author_profile: true
 # Speed Typing
 
 <p>Recorded highest at 72 Words per Minute at <a href = "https://www.keyhero.com/" id = "link">keyhero</a>.</p><br>
-<img src = "{{ site.baseurl }}/images/72WPM_keyhero.png"/>
+<img src = "{{ site.baseurl }}/assets/images/72WPM_keyhero.png"/>
 
 
 <br><br>

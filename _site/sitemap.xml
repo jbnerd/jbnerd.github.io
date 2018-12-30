@@ -13,13 +13,13 @@
 <loc>http://localhost:4000/Projects/BITS_LifeGuard/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Blog/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/organisations/CodingClub/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Experience/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Miscellaneous/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Projects/Myriad/</loc>
@@ -28,7 +28,7 @@
 <loc>http://localhost:4000/Organisations/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Projects/</loc>
+<loc>http://localhost:4000/PandP/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Projects/Checkmate_2016_pokemon_go/</loc>

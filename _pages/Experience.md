@@ -29,18 +29,15 @@ author_profile: true
 # Internships
 
 ## Summer Research Intern at Bombay Stock Exchange
-<img src = "{{ site.baseurl }}/images/BSE_logo.jpg"/><br>
 <small>      May 2017 - July 2017</small>
 <p>Worked on a survey for Impact of Technology on Stock Market Surveillance, with major focus on developing a methodology to set periodic price bands for Penny Stocks.</p>
 <p>Find more details <a href="/PS1_Compre_Report.pdf" id = "link">here</a>.</p>
 
 ## Web Development Intern at BITS2Startup@GLOBAL
-<img src = "{{ site.baseurl }}/images/bits2startup@global.jpg"/><br>
 <small>      Oct 2016</small>
 <p>Worked as a back-end web development intern for the official website of the startup. Made a login/registration tool using the LinkedIn and Google API.</p>
 
 ## Campus Ambassador for BITS Pilani at SophomoreS.in
-<img src = "{{ site.baseurl }}/images/sophomores.in_logo.png"/><br>
 <small>      Aug 2016 - Oct 2016</small>
 <p>Worked as the Campus Ambassador and the mediator between the authorities and the students enrolled for the <a href = "sophomores.in">Sophomores.in</a> program.</p>
 <br><br>
@@ -48,7 +45,6 @@ author_profile: true
 # Education
 
 ## Under-Graduate Degree             
-<img src = "{{ site.baseurl }}/images/BITSPilani_logo.png"/><br>
 <small>2015-2017</small>
 <p><big>Junior</big><br>
    BITS Pilani, Rajasthan<br>
