@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "neon" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 locale                   : "en"
 title                    : "Abhishek V Joshi"
 title_separator          : "-"
@@ -79,9 +81,9 @@ analytics:
 author:
   name             : "Abhishek V Joshi"
   avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Exploring Something new Everyday!!"
+  bio              : "Wubba Lubba Dub Dub"
   location         : "BITS Pilani, Rajasthan"
-  email            : "abhivjoshi.aj@gmail.com"
+  email            : ["abhivjoshi.aj@gmail.com"]
   uri              : 
   bitbucket        :
   codepen          :
