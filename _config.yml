@@ -16,18 +16,18 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ordered manifestation of chaotic thoughts"
+title                    : "Ordered ramblings of chaotic musings"
 title_separator          : "|"
-subtitle                 : "sort of" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Abhishek V Joshi"
-description              : ""
+description              : "A space to share my thoughts and notes"
 url                      : "https://jbnerd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jbnerd/jbnerd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/external_assets/images/avatar.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jb_nerd
 facebook:
   username               :
   app_id                 :
