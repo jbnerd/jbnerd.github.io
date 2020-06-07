@@ -278,8 +278,6 @@ collections:
     output: true
   linear_algebra:
     output: true
-  software_development:
-    output: true
 
 # Defaults
 defaults:
