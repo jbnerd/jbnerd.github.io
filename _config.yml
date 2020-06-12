@@ -276,7 +276,7 @@ compress_html:
 collections:
   posts:
     output: true
-  linear_algebra:
+  algorithm_design:
     output: true
 
 # Defaults
