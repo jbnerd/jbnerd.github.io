@@ -14,11 +14,11 @@ excerpt: "A subset of my knowledge and insights gathered for better searchabilit
 
 
 feature_row:
-    - image_path: "/assets/images/linear_algebra_logo.jpg"
+    - image_path: "/assets/images/posts/algorithm_design/bridges_of_konigsberg.png"
       image_caption: "Algorithm Design"
       title: "Algorithm Design"
-      # excerpt: "Some insights into linear algebra"
       url: "/algorithm_design/"
+      button: ".btn--primary"
 ---
 
 ## Collections

@@ -8,6 +8,7 @@ comments: # true
 share: true
 related: false # true
 classes: wide
+excerpt: Notes on how monotonic stacks are used to solve the problem of computing next greater intervals in linear time.
 ---
 
 Recently, a close friend convinced me to start solving problems from online judges. While I don't have the slightest intention of competing in contests, I couldn't refuse the reason for solving interesting problems. In the initial phases, I came across a few problems that required computation of `nextGreaterInterval` for every element of a given $list$ in linear time. The most popular (and efficient) method to solve this problem is to use a monotonic stack. While one can find plenty of implementation and problem specific [resources][references] on the web, none does enough justice to the elegant usage of the data structure, its design and its characteristic generalization property. Using monotonic stack over a brute force solution prunes the search space from a quadratic function of input size to a linear function $i.e. O(N^{2}) \, --> O(N)$.
@@ -26,7 +27,7 @@ Let's start by setting up our problem in a simplistic notation, read `Pythonic` 
 
 Let's say we have separate lists `leftBound` and `rightBound` such that the $leftBound[i]$ is the index of the left bound of $list[i]$ and $rightBound[i]$ is the index of the right bound respectively. If an element $list[i]$ doesn't have a sound left bound then we set $leftBound[i]$ to $-1$; similarly we set $rightBound[i]$ to $N$.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/monotonic_stacks/histogram.png){: .align-center}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/algorithm_design/monotonic_stacks/histogram.png){: .align-center}
 
 For example, in the image above `nextGreaterInterval` for element $list[5]$ is $[4, 9]$ and that for $list[4]$ is $[3, 10]$
 

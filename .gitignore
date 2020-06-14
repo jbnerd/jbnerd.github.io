@@ -5,3 +5,6 @@ _site
 .jekyll-metadata
 vendor
 */.idea
+
+assets/scripts/bridges_of_konigsberg/*.png
+assets/scripts/fly_straight_dammit/*.png
